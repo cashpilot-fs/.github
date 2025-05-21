@@ -1,12 +1,9 @@
-## Hi there 👋
+#                                        ![logo](logo.png)
 
-<!--
+# CashPilot
 
-**Here are some ideas to get you started:**
+CashPilot is an application that helps users manage their personal finances. It offers many features, such as income and expense management, scheduled payments, savings projections, and budgeting. With the mobile application, users can take their finances anywhere, anytime.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Collaboration
+
+Powered by FiStackTech
